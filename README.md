@@ -44,7 +44,7 @@ The solution follows the Medallion Data Architecture to organize data processing
 
 Architecture Diagram:
 
-![Architecture](Architectural%20design.png)
+![Architecture](Images/Architectural%20design.png)
 
 ---
 
@@ -205,7 +205,7 @@ Star Schema Diagram:
 
 Star Schema Diagram:
 
-![Data Model](Data%20Modelling.png)
+![Data Model](Images/Data%20Modelling.png)
 
 ---
 
